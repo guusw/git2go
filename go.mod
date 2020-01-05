@@ -1,3 +1,3 @@
-module github.com/libgit2/git2go
+module github.com/guusw/git2go
 
 go 1.13
